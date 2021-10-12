@@ -18,7 +18,7 @@ mock==3.0.5
 networkx==2.3
 ninja==1.9.0.post1
 numpy==1.16.4
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 pandas==0.24.2
 Pillow==6.0.0
 pip==19.1.1
