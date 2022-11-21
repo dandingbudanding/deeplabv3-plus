@@ -38,7 +38,7 @@ sklearn==0.0
 tensorboard==1.11.0
 tensorboardX==1.7
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.11.0
+tensorflow-gpu==2.9.3
 termcolor==1.1.0
 torch==1.1.0
 torchsummary==1.5.1
